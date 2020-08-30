@@ -1,0 +1,15 @@
+.plays {
+    margin: 5% 20% 0 20%;
+}
+
+button {
+    width: 30%;
+    margin: 0 1%;
+    height: 50px;
+    border-radius: 10px;
+}
+
+.reset {
+    margin: 1% 35% 0 35%;
+    width: 30%;
+}

@@ -1,0 +1,23 @@
+.result {
+    text-align: center;
+    margin: 0 20%;
+}
+
+.machine-result {
+    color: #4a5b75
+}
+
+hr {
+    color:#4a5b75;
+    background-color:#4a5b75;
+    height: 2px;
+    border: none;
+}
+
+.player-result {
+    color: #4a5b75
+}
+
+.left {
+    text-align: left;
+}
